@@ -1,0 +1,5 @@
+Sakura-GalTransl-7B-v3.7 IQ4_XS
+Authors: sakuraumi and xd2333 / SakuraLLM
+Source: https://huggingface.co/SakuraLLM/Sakura-GalTransl-7B-v3.7/tree/759d76b1745f4428308de6564c5ab710d4358b2e
+License: CC BY-NC-SA 4.0 — https://creativecommons.org/licenses/by-nc-sa/4.0/
+Weights are NOT included in the installer. Optional unmodified download SHA-256: 8f515bf4769f279a7fcf43e57446455a9d4de7f65b1bc9eddee76717e1ff7919
